@@ -5,7 +5,6 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | Aaaa| The project task was to analyze user data |
-| 2 | Bbbb | The project task was to prepare a report that gives insight into the shopping habits of customers |
-| 3 | A/A/B Test Analysis | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
-| 4 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
+| 1 | Cars Choice| Here is an application, it will help you to choose your dream car based on your preferences and budget. |
+| 2 | A/A/B Test Analysis | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
+| 3 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
