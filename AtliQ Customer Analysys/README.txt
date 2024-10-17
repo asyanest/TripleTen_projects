@@ -1,4 +1,4 @@
-Customer analysis research plan for AtliQ Hardware
+Customer analysis research for AtliQ Hardware
 Anna Nesterenko, junior analyst
 
 Objective:
